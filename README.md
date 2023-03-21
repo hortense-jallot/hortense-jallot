@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+After a master in management at ESCP BS, I decided to follow the Data Science training at Le Wagon coding school. I'm currently looking for a job in that sector.
+
+Projects:
+ - 🚂 => see Travel Home repository
+
+Main studies:
+ - Le Wagon 2023 => Bootcamp in Data Science and Artificial Intelligence
+ - ESCP BS 2019 - 2022 => Master in Management
+
 <!--
 **hortense-jallot/hortense-jallot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
