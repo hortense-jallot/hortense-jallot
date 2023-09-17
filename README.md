@@ -3,7 +3,7 @@
 After a master in management at ESCP BS, I decided to follow the Data Science training at Le Wagon coding school. I'm currently looking for a job in that sector.
 
 Projects:
- - 🚂 => see Travel Home repository
+ - 🚂 => see Travel Home repository : https://github.com/nauvray/travel-home
 
 Main studies:
  - Le Wagon 2023 => Bootcamp in Data Science and Artificial Intelligence
